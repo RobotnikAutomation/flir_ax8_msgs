@@ -1,0 +1,4 @@
+int16 spot
+---
+bool success
+float32 temperature
