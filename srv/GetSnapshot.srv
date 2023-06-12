@@ -1,0 +1,5 @@
+string save_path
+string image_name
+---
+bool success
+string message
